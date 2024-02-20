@@ -4,8 +4,8 @@
 👨‍💻 Technology in Software Development ¡In process!
 <br>
 🐉 Programmer ¡in Process!
-
-
+<br>
+📧 randyjoelmr2003@gmail.com
 
 ## Skills 🉐: 
 
@@ -32,6 +32,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randy-molina-0499252a7/)
 
 
 <h2  align="center"> Check Out My Repos ⬇️ </h2>
