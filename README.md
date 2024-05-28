@@ -1,4 +1,5 @@
 <h1 align="center"> 👦🏻 </h1>
+<img align="center" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" width="200" >
 
 ## Education 🎓: 
 👨‍💻 Technology in Software Development ¡In process!
