@@ -1,17 +1,17 @@
 <h1 align="center"> 👦🏻 </h1>
 
 <div align="center">
-  <img src="https://miro.medium.com/max/1200/1*ZSVmWGcc1weENb0ShawWxw.png" alt="banner" width="600"/>
+  <img src="https://media.tenor.com/Bpbu2-YNL6cAAAAM/hacker-pupper-dog.gif" alt="banner" width="200"/>
 </div>
 
 <h2 align="center">Hello, I'm Randy Molina! 👋</h2>
 
 <p align="center">
-  <em>Technology in Software Development | Programmer in Process</em>
+  <em> Software Development in Process</em>
 </p>
 
 ## 🎓 Education
-- 👨‍💻 Technology in Software Development ¡In process!
+- 👨‍💻 Software Development ¡In process!
 - 🐉 Programmer ¡In process!
 
 ## 🉐 Skills
