@@ -51,7 +51,7 @@
 
 ## 📫 Contact
 <div>
-  <a href="https://www.linkedin.com/in/randy-molina-0499252a7/" target="_blank">
+  <a href="https://www.linkedin.com/in/randy-molina/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:randyjoelmr2003@gmail.com">
