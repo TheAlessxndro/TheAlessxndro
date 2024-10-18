@@ -11,8 +11,8 @@
 </p>
 
 ## 🎓 Education
-- 👨‍💻 Software Development ¡In process!
-- 🐉 Programmer ¡In process!
+- 👨‍💻 Software Development ¡Complete!
+- 🐉 Programmer ¡Complete!
 
 ## 🉐 Skills
 
