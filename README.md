@@ -43,16 +43,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,ubuntu" alt="Tools"/>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thealessxndro&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealessxndro&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
 ## 📫 Contact
 <div align="center">
   <a href="https://www.linkedin.com/in/randy-molina/" target="_blank">
