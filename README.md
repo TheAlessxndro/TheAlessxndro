@@ -1,6 +1,10 @@
 <h1 align="center">👨‍💻 Randy Molina</h1>
 
 <div align="center">
+  <img src="https://media.tenor.com/Bpbu2-YNL6cAAAAM/hacker-pupper-dog.gif" alt="banner" width="200"/>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Full+Stack+PHP+Developer;Laravel+Specialist;Building+Web+Applications" alt="Typing SVG" />
 </div>
 
@@ -15,36 +19,42 @@
 ## 🛠️ Skills
 
 ### Languages
-<div>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,js" alt="Languages"/>
 </div>
 
 ### Frameworks
-<div>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Framework"/>
 </div>
 
 ### Databases
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database"/>
 </div>
 
 ### Frontend
-<div>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Frontend"/>
 </div>
 
-### Tools
-<div>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+### Tools & Environment
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,ubuntu" alt="Tools"/>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thealessxndro&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealessxndro&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 📫 Contact
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/randy-molina/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
