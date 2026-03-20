@@ -1,13 +1,10 @@
 <h1 align="center">👨‍💻 Randy Molina</h1>
-
 <div align="center">
   <img src="https://media.tenor.com/Bpbu2-YNL6cAAAAM/hacker-pupper-dog.gif" alt="banner" width="200"/>
 </div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Full+Stack+PHP+Developer;Laravel+Specialist;Building+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Full+Stack+PHP+Developer;Laravel+Specialist;NestJS+Developer;Angular+Developer;Building+Web+Applications" alt="Typing SVG" />
 </div>
-
 <p align="center">
   <em>Specialized in PHP & Laravel Development</em>
 </p>
@@ -20,12 +17,12 @@
 
 ### Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,js" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=php,js,ts" alt="Languages"/>
 </div>
 
 ### Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel" alt="Framework"/>
+  <img src="https://skillicons.dev/icons?i=laravel,nestjs,angular" alt="Frameworks"/>
 </div>
 
 ### Databases
@@ -38,9 +35,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Frontend"/>
 </div>
 
-### Tools & Environment
+### DevOps & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,ubuntu" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,vscode,git,github,linux,ubuntu" alt="DevOps & Tools"/>
 </div>
 
 ## 📫 Contact
